@@ -1,0 +1,28 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfdfd;
+    background-repeat: on-repeat;
+    background-size: cover;
+}
+.home h2{
+    text-align: center;
+    background-color: rgb(147, 205, 236);
+    width: 185%;
+    height: 300%;
+   
+}
+.home h1{
+    text-align: center;
+}
+.photo{
+width: 100px;
+margin: 50;
+
+}
+.photo input{
+    color: rgb(0, 0, 0);
+
+}

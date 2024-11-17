@@ -1,0 +1,23 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfdfd;
+    background-repeat: on-repeat;
+    background-size: cover;
+}
+
+.archi h3 {
+    font-size: 40px;
+    color: rgb(11, 27, 42);
+    text-align: center;
+}
+
+.PRO img {
+    /* text-align: center; */
+    width: 90%;
+    height: 5%;
+    /* align-items: center; */
+    margin-left: 100px;
+}
